@@ -1,0 +1,138 @@
+20210808035	:::	<p id="isPasted">the moon acted upon by the jupiter gravity  gravity accelerates the moon towards to the earth and it causes moon's path to curve or bend  this is circuler motion of moon                      
+20220808013	:::	 He find that light have a speed because when he try to calculate period of Jupiter's moon in different times he found 2 different conclusion but he know the conclusion must be same so he decided to light have a maximum speed.  
+20220808706	:::	 He discovered and calculated the speed of light.  
+20220808070	:::	 speed of light.  
+20220808617	:::	 Roemer investigated the moons and their eclipses took place sooner than expected.  
+20220808063	:::	<p id="isPasted">The lunar eclipse was constantly changing throughout the year.  sometimes the eclipse was late,  sometimes early. Therefore,  Roemer found that   the light must have a speed.  
+20220808019	:::	 determination of light speed 
+20180808086	:::	 Roemer invest Jupiter moons. And he noted their eclipses took place sooner than expected.  Predict when eart was near to Jupiter. Eart was farther away from it.  
+20220808029	:::	 He determined that orbit's velocity was getting faster when the orbit get close to the jupiter and when get further orbits were slowing.  
+20220808014	:::	 He found the moons ,  which are closer to the sun ,  arounds more faster than the others . So that further moons' period is longer than a year.  
+20210808014	:::	 the closer orbit gets,  the higher speed it gets.  
+20220808059	:::	
+20220808006	:::	 Romer observed the moons of Jupiter,  so he calculated the speed of light.  
+20230808077	:::	       moons of the Jupiter's 1 tour of Jupiter .  He  calculated   T^2 /R ^3    .     
+20220808504	:::	  observed the moons of Jupiter and noticed that their observed orbit periods seemed to vary as Earth moved in its orbit around the Sun,  when Earth was moving away from Jupiter,  the observed orbit period increased,  and when moving toward Jupiter,  the period decreased.  
+20190808014	:::	 Roemer investigated Jupyter's moons.  Founded their eclipses took place sooner than predicted when Earth was nearer to Jupyter and also happened later when Earth was farther away from it.  
+20210808605	:::	 Roemer observed the moons of Jupiter and calculated the changing orbital period.  Deduced the finite speed of light.  
+20230808611	:::	 Copernicus thougth planets have circle orbits and Kepler discovered planets moves on the elliptic orbit.        
+20200808033	:::	 He reasoned that light must have a speed due to the motion of Jupiter and the Earth around the Sun and calculated an approximate value.  
+20210808025	:::	 When earth is closest to Jupiter.  Eclipse moons of jupiter became earlier then excepted.  
+20220808610	:::	 He used a fixed star to observe.  He observed that moons of Jupiter doesn't follow circle path.  They move in elliptical way.   
+20220808050	:::	
+20210808012	:::	
+20230808621	:::	 Roemer using the timing eclipses of Jupiter's moon lo ,  he measure the speed of the light.  He is the first person who is the measure the speed of light.  
+20220808071	:::	 The Law of Harmonies 
+20230808609	:::	 Kepler has 3 laws.  Third law is when a planet close the sun,  it is faster also when it is far,  it is slower.  So planet's period proportial with the distance between sun and the planet.  He found this formula : T^2/R^3=1 
+20220808069	:::	 he was dividing the diameter of the Earth's orbit by the time difference .  
+20220808023	:::	 Roemer calculated the relationship between T (period)  and r (length) .  
+20220808016	:::	 Roemer observed the moons of jupiter then he calculated the speed of light.  
+20230808070	:::	 He determined that when it closed to the sun its speed are very fast,  also its faster than farther ones.  He found a rule between period and distance like this: T^2 / R^3.   T is a year,  R is a distance between sun and the moon.  
+20230808010	:::	 Orbit takes longer when Earth is farther away and takes less time when Earth is near.  it is because light is not instatenious and takes time to travel.  it takes more time to reach to Earth when Earth is farther away.  
+20210808018	:::	 with lunar lazer he pointed moons motion.  every planet and sun have their own magnetic force and planets spin through them orbits 
+20230808602	:::	
+20210808022	:::	 lunar laser ranging when moon closest 21 june 
+20200808026	:::	
+20220808076	:::	
+20220808048	:::	 The moon of Jupiter is called iO.  it turns around Jupiter 42. 5 hours in Earth.  Cissini says said that takes orbit the same n everytime and it helps us to calculate distance between Earth and Jupiter.  Light travels in space orbit period varies within a year when it's closest it's has more acceleration when it's farthest.  He deduced that if moons of Jupiter  
+20210808062	:::	 roemer calculated when he determined the orbit period varies wtihin a year .  Observed the moons of the jupiter.  and he thougt the earth is not a perfect circle 
+20220808607	:::	 He calculated the difference between the speed when they are close to the planet they speed up when they are not close they will slow down so that makes changes in period.  
+20210808615	:::	 By timing the eclipses of io by Jupiter he hoped to determine a more accurate value for the satellite's orbital period and then tried to calculate speed of light with it.  
+20220808024	:::	 While he observing the moons of jupiter he observed there is time diffrence between periods of moon because of earth movement.   and he calculate accurately period of moons of th jupiter.  
+20210808061	:::	 He determined that orbit period divided by distance of the planets.  Planets moves faster when they are closest the Sun and moves slower when its furthest.  
+20210808044	:::	 Roemer calculated the moons of the Jupiter did not move the same time,  and according to this calculation he achieve the moons turn around on a eliptic orbit and closest moon faster than farther moon.  
+20210808033	:::	 Ole Roemer,  while observing Jupiter's moon io,  calculated the finite speed of light by noting variations in the moon's orbit period,  deducing that the time for io to orbit Jupiter appeared longer when Earth was moving away and shorter when approaching due to the speed of light.  
+20220808703	:::	 He made the first quantitative estimate of the speed of light based on this phenomenon. He suggested that light has a finite speed.   
+20220808073	:::	 la Rome saw that the period of the changes when earth is near to the Jupiter and moons seem late when earth is farest from jupiter that means light needs time to travel in space.  And as we know the time changing with the distance which we can find by using third law of Kepler^s harmonies which provide us an accurate relation between t (period) ^2/r (radius between Jupiter and the Sun) ^3,  Jupiter moons we can calculate light speed.  
+20220808035	:::	 The jubiters moons dissapiered sometimes and he mentioned when the distance between jubiter and earth increase moons velocity increase.  So period are shorter in that time.     
+20220808025	:::	 He calculated days of a year.  That one tour around the Sun means that one year.  
+20210808610	:::	 the eclipse of moons 
+20210808016	:::	 when galileo observe whit telescope he realaized that some object revolve around the jupiter.  
+20230808618	:::	 He relaize the mooon moves with a hermonie and there is a calculate it is T*2/R*3 .  it is mean a planet's period moves according this calculate.  And also when moon close to jupiter moon goes faster and when moon far to jupiter it goes to slowly.  Also there is a calculated about period it is 2. pi. in sqrt L/g .   
+20230808004	:::	 When Roemer observing the moons he calculated the period of the planet and he realized a loop and the change was the same and he thought making calendar is made sense and he invented his own calendar.  
+20230808617	:::	 He realized that light travels a constant velocity in the space.  
+20210808017	:::	 He use T^2/R^3 = 1 for calculate him and he calculate Jupiter Years.  
+20220808041	:::	 The moon of Jupiter called iO is turn around jupiter at 42. 5 hours in Earth.  Cussini say that this eclipse is not always same time.  Roemer know that iO take the its orbit same time n everytime and explaine like that the distance between Earth and Jupiter . When Earth be close the Jupiter eclipse appear to us as if  happened at short time . When the distance increased eclipse appear to us happened at long time. So he explained like  that  the time light has to travel in space. So concluded the speed of light is not instantaneous. it has limited speed.  
+20220808033	:::	
+20220808052	:::	 He determined that when earth far away from Jupiter its moon take longer to full circle but when earth is close to Jupiter it takes less time.  So that means light is not instant it has constant velocity.  
+20200808009	:::	 the distance between the Jupiter and moon 
+20220808616	:::	 When jupiter moons were observed farther away from the earth,  their orbit times takes long and when they observed closer to the earth,  their orbit periods became shorter.  From this situation,  he concluded that the light has a speed and it takes time to arrange to the earth when observing object far away.  
+20210808021	:::	 THE MOON ACTED UPON BY THE JUPİTER GRAVİTY     
+20200808505	:::	
+20210808038	:::	 Orbit period is constant.  
+20220808047	:::	
+20230808623	:::	 He determined that the gravitation force is constant but the distance between Jupiter and its moons is not.  Because of that the velocity of moons varies.  
+20220808039	:::	13
+20220808056	:::	 this question is about calendars and times because he conflicted with copernicus . mountains moon heliocentric model Copernican model: motions of the sun are explained by the Earths rotation and revolution around the sun indicating multiple motions of the earth is not the center of the universe but is center of lunar sphere (i mean moon)  and gravity closer objects circle faster around the sun objects closer to the sun move faster in their orbits than those farther away. the absence of a single center for celestial circles or spheres. sun is center of universe. The sun is considered the center of the universe,  and all spheres including Earth revolve around it. the apparent motion in the firmament is attributed to the earths rotation and motion,  not the firmament itself. retrograde and direct motions of planets are explained by the Earths motion with no need for separate planetary motions to account for observed celestial phenomena. there is a conflict of interest between the church and copernican astronomy the Julian calendar caused a drift in holy days.  copernicus improved it leading to the gregorian calendar this adjustment stabilized religious observance timings    
+20220808032	:::	 timing of eclipses seemed to vary sometimes sooner sometimes later than expected. when the earth closer the jupiter. the eclipse in jupiters moons became earlier than expected.  
+20210808011	:::	 He determined that the planet are just like magnets and because of that it makes elliptical motion and it creates summer and winter and autumn . .  
+20200808028	:::	 His work provided strong evidence for the finite speed of light and laid the groundwork for later,  more precise measurements of the speed of light.     
+20220808043	:::	 When galileo observe with telescope,  he realized that some objects revolve around the Jupiter.  And he tried to calculate astronomical values for finding period.  
+20230808062	:::	 Distance to satellites.  Distance to satellites can vary by %15 difference.  in closer orbits faster movements,  further orbits slower movements.  Also when it is closer it is %30 brighter.  This is the way Supermoon occurs.  
+20220808053	:::	
+20200808504	:::	 Observing the moons of the Jupiter Roemer calculated time of day when he determined the orbit period varies within a year. month, time, day. lunar lazer 
+20220808045	:::	<p id="isPasted">romers determination of the speed of light was the demonstration in 1676 that light has an apprehensible,  measurable speed and so does not travel instantaneously.  
+20210808614	:::	
+20200808008	:::	 He calculated the gravity of the Sun that effects the moons of the Jupiter and it's effect on the period of moons.  
+20220808028	:::	 he calculated speed of light  he calculated a year in jupiter    
+20210808048	:::	<p id="isPasted">Roemer noticed that Jupiter's moon larget moon of jupiter didn't always take the same time to go around Jupiter.  He saw this by watching when largest moon of jupiter disappeared and reappeared,  and realized that it changed because Earth moved around the Sun.  <div style=" color: rgb (0,  0,  0) ;"> </div>
+20230808061	:::	 He calculate the elliptic motion of the sattelites and the distance of the planets and sattelites.  and this distance can change with velocity of the moons.   
+20220808066	:::	<p id="isPasted">As Earth moves away from Jupiter,  some moons are not visible.  this is why.  
+20220808046	:::	 roemer observed the moons of the jupiter then he calculated 
+20230808613	:::	
+20210808066	:::	 <strong>Romer's determination of the speed of light was the demonstration in  measurable speed and so does not travel instantaneously</strong> 
+20210808056	:::	 He found that this orbit is elliptical orbit,  so when the moons is closest the Jupiter,  they move fastest.  Thus the orbit period varied within a year.  
+20220808034	:::	 The moons of the Jupiter orbit the planet different speeds in a year.  
+20220808067	:::	 He figure out that the gravitation force is constant but the fact that distance between jupiter and moons are not.  So he thinks the velocity of moon isn't constant it can changed.  
+20220808074	:::	 They had known distance from Jupiter.  They followed jupiter moons.  Satellite disaperied and then comes back.  They tought that they could not see satellite but they could see it.  They believed light travel with a velocity.  From them Roemer calculated speed of light.  
+20210808612	:::	 he deduced  that everything didn't orbit around he earth could not be determined the orbit periods.  
+20200808045	:::	 the days number of the years 
+20220808037	:::	 He calculated the year time in different times.  He calculate when we are close the jupiter and when we are far away to jupiter.  When we far away or close to jupiter the time that lights travel is changing so the results were not equal.  
+20210808616	:::	 roemer investigated jupiters moons who discovered by galilleo he studied jupiters moons and noted their eclipses took place sooner than predicted when earth was nearer  to jupiter and happened later when eart wa farther away from jupiter  
+20210808076	:::	 Roemer thought the Earth is not perfect circle so its looks like eclipse.  
+20220808604	:::	
+20220808022	:::	 Orbit takes longer when Earth is farther away. Also it takes more time when Earth is near or closer.  it is because light is not instantenious and takes time to travel. Lights are electromagnetic waves.  it takes more time to travel.  
+20220808010	:::	 Roemer calculated periods varies with a year by t2/r3.  he observed and accured.  he used telescope and accured it jupiter has 4 moons.  
+20220808705	:::	
+20210808042	:::	 it calculates with R<sup>3</sup>/T<sup>2</sup>  Ellipses  Heliocentric  perfect circle        <sup> </sup>    
+20230808020	:::	 He calculated speed of light.  He saw that period changes in a year and he realized that light may have a speed .  
+20220808044	:::	 The moons arent just affected by the field of the planet's magnetic force but with the force that comes from the rotation around the Sun as well,  hence the elliptic rotation the orbit period varies within planet's circulation around the Sun.  
+20230808608	:::	 He calculated period and distance were proportional.  So when a celestial body came closer in the orbit it sped up.  And when it went away it slowed down.  This made orbit period variate within year.   So if a invisible string were to drawn to the center.  Area for the celestial body within a time frame would be the same.  But its speed thus its the traveled distance would differ.   And the elliptic orbit of these celestial bodies would not stay the same.  They change little every now and then.   The equiation that gives this varitability is T^2/R^3 
+20220808007	:::	 He found out that light has a velocity.  Since light has a velocity,  when the Earth is far from Jupiter,  we see the moons orbit the Jupiter in a long time and when the Earth is closer to the Jupiter,  we see the moons orbit the Jupiter in a shorter time.  Because the time it takes the light to travel to the Earth is longer in the first case than the second case.  
+20230808066	:::	 when the moon's distance increases it starts to slow down,  and when the moon comes closer to Jupiter it fastens.  when the moon is closer the eclipse becomes earlier than expected.  if it is at its maximum distance then the eclipse becomes later than expected 
+20230808055	:::	 roemer making list of period of jupiter's moons he realize there was delay in date of period throw year but this delay was same so he conculed that period was right but light was delaying by observing  this delay he calculate speed of light.  
+20210808006	:::	 Roemer observed the moons of Jupiter and calculated that the apparent speed of light varied throughout the year due to the changing distance between earth and sun,  providing an early estimation of the speed of light.  
+20230808075	:::	 After 4 moons of Jupiter observated,  Romemer calculated R^3 / T^2 equals a constant and this is true for all.  
+20200808015	:::	 Observing the moons of the Jupiter, Roemer calculated when he determined the orbit period varies within a year.  
+20200808003	:::	  roemer observed that the time between eclipses of jupiter's moon io varied during the year.  He attributed this to the finite speed of light and estimated its speed by measuring the variations,  laying the foundation for understanding light's finite speed 
+20220808058	:::	 He calculated the formula of T^2 / R^3 = 1.  T is the period of bodies and R is the radius.  
+20220808018	:::	
+20220808001	:::	 he calculated light has a speed.  Before that idea people thought light  must appear in our eyes but he proved it was wrong.  First he observed jupiter and his moons.  And then he saw when we were close to jupiter,  we can see its moons earlier,  and when we were further to jupiter,  we can see its moons later.  So because of that,  he thought light must have a velocity.  Otherwise there must be no delay at different distances.  
+20220808077	:::	 He calculated to find a more accurate value for satellite's orbital period.  
+20200808805	:::	 by dividing the diameter of the Earth's orbit by the time difference 
+20190808021	:::	 He found out that moons orbit the Jupiter in an elliptical pattern,  which made the orbit timers vary depending on how close the moon was to the planet.  The closer they were the faster they orbit around.  
+20220808606	:::	 He conclued that every moon has another speed according to how far it is.  He calculated  
+20200808063	:::	 By timing the eclipses of Jupiter's moon io,  R&oslash;mer estimated 
+20220808005	:::	 Moon's timing was depending on Earth's position in the orbit.  Then he calculated the speed of light and he proved that it was not infinity.  
+20220808051	:::	 Astrologist Roemer calculated speed of light. When the Eart close the jupiter the eclips of jupiter moons became earlier than expected. İn this way astrologist Roemer calculated speed of light with observing jupiter.  
+20220808608	:::	 the speed of light 
+20220808060	:::	
+20220808026	:::	
+20230808049	:::	 He looked at the moons of jupiter and said that the eclipses of those moons didn't go as predicted.   Sometimes it ended early and sometimes it ended late.   Then he thought that when the earth and jupiter were orbiting the sun they were at some points close and far away from each other another time.   Therefore he said that the light was traveling and it had a speed.   After that by measuring the distance between earth and jupiter at different times.   When far away the eclipses were 22 minutes and when close it was less so he calculated the speed of light out of that.  
+20220808002	:::	 how heavy is Jupiter.  
+20210808604	:::	
+20200808062	:::	
+20220808062	:::	 if a moon closer the Planet than another moon,  it's Velocity is higher and it's orbit period lesser than the another moon.  
+20230808615	:::	 the force decrease as it gets far away from jupiter.  
+20220808055	:::	 Roemer calculated that Jupiter's moons and Earth's orbits difference.  
+20210808065	:::	 Roemer calculated that Jupiter's moons eclipses happens sooner than predicted when earth is nearer to jupiter and happens later when earth is further from jupiter.  
+20200808020	:::	 They observe sky with telescopes,  mathematics.  He found a formula.  T^2/R.  He observe motion of moons of jupiter.  
+20220808038	:::	 Jupiter has a moon called iO.  iO turn around Jupiter in 42. 5 hours in Earth's time.  But sometimes it takes longer than 42. 5 and sometimes it takes less than 42. 5.  So there were a problem but Roomer said Earth sometimes get closer to Jupiter and  we calculated less than 42. 5 because light takes less meter in the space sometimes more meter.  So he calculated the speed of light.    
+20200808072	:::	 observing the moons of the jupiter.  roemer calculated when he determined the orbit period varies witihin a year.  so,  that is a leap year.      
+20220808072	:::	 When the Earth closer to the Jupiter the eclipse in Jupiters Moons became earlier than expected.  When the Earth further to the Jupiter the eclipse in Jupiters Moons became later than expected.  
+20200808038	:::	
+20200808080	:::	 in 1676 astronomer Ole Romer discovered that the varying time between Jupiter's moon io's eclipses was due to the finite speed of light 
+20190808035	:::	 the day number of year.  
+20220808057	:::	 When the moons getting closer the moons can turn faster than when the moons farther away from Jupiter .  So ,  when they close they are faster turning around .  Or when they are faster than before this mean they are closer than slower time .   
+20190808034	:::	 he found out they are on the elliptic orbit .  
+20210808005	:::	 calculated the distance to center and the period of planets moves .  it is T * T / R * R * R .  The T is period and R is radius of planets or any satellite .  

@@ -1,0 +1,138 @@
+20210808035	:::	 geocentric and heliocentric model 
+20220808013	:::	 Observation and understand the universe.   Trying to find mathematical expressions to find that why something happened.  Making more effective observations with technological devices.  
+20220808706	:::	
+20220808070	:::	 observational :using telescopes  to collect data about space.   theoretical :using data to analyze how objects work. and make theories about it.  
+20220808617	:::	 Geocentric model and Heliocentric model 
+20220808063	:::	 geocentric model (sun centered)  and heliocentric model (earth centered) .  
+20220808019	:::	 observational astronomy and theoretical astronomy 
+20180808086	:::	 Geocentric model and Heliocentric model.  
+20220808029	:::	 The first one was deductive and the second one was indeductive.  Deductive was observed by Bacon and indeductive was observed by Descartes 
+20220808014	:::	 in Greeks ,  they were using bare eyes to observe the planets and starts.  Then the telescope was invented.  People started to use telescopes to observe the space.   The gravitation depends the object's mass and distance.   
+20210808014	:::	 deductive and inductive 
+20220808059	:::	 one of them is Geocentric and the other one is Heliocentric approach.  in Geocentric approach,  circles are rounding on their orbits.  in Heliocentric approach,  circles are rounding around the Sun.   
+20220808006	:::	 The first one is Ptoleym's astronomy which is based on that the Earth is in the center  (GeoCentric) .  The second one is Copernic's astronomy that is based on the Sun is in the center  (HelioCentric) .  
+20230808077	:::	 the mathematical way of gravity,  differential and integral Calculus.   Reflection Telescope .            
+20220808504	:::	 for heliocentric and geocentric model 
+20190808014	:::	 Geocentric approach and heliocentric approach.  
+20210808605	:::	 The two approaches to studying astronomy from the Greeks to Newton are the geocentric model,  where Earth is considered the center of the universe,  and the heliocentric model,  which proposes that the Sun is at the center with planets,  including Earth,  orbiting around it 
+20230808611	:::	 These are deductive and inductive approach.   Deductive approach is start with generally statements  and theory.   inductive approach start with a question.  
+20200808033	:::	<p id="isPasted">Geocentric Model which places earth to the center of the universe and Heliocentric Model which places the sun at the center of solar system 
+20210808025	:::	 Aristotalies said earth is center of the universe.  He thought spheres revolve around the sun but Kepler noticed it is false.  He realized sun is the center of the universe.  
+20220808610	:::	 Geocentric and Heliocentric models are used to study astronomy.  
+20220808050	:::	
+20210808012	:::	 the first one was observing the heaven and heavenly bodies and the second one was the calculating connection between them with mathematics     inductive and deductive approaching to astronomy .     
+20230808621	:::	 The newton use the observational astronomy which is that using telescopes and collect data about the sky.  And the second one is theoretical astronomy which is that using data to analyze (How objects and phenomena work) .  
+20220808071	:::	 Kepler's Law  Copernican Models  Telescope 
+20230808609	:::	 Heliocentric Model : The Sun is the center of the universe.   Geocentric Model: The earth is the center of the universe and planets are stationary.   (Don't move. )  
+20220808069	:::	 Newton wanted to study astronomy.  So he bought astronomy book.  But he did not know trigonometry.  So he bought trigonometry book.  but he did not know euclid.  so he beginning with euclid.   one of these is geocentric model.  Geocentric model says that the earth is center of the universe.   other one is heliocentric model.  it developed by Copernicus.  Heliocentric model says that the planets travel around the sun.   invented telescope,  invented microscope.  and improveming mathematic calculations 
+20220808023	:::	 One of them is geocentric approach which presumes the Earth is in the center and other planets do orbit around the Earh.  The other approach is a heliocentric approach which presumed that the Earth and other planet were orbitting around the sun.  
+20220808016	:::	 First one is Ptolemy's astronomy which is based on earth is on the center  (geocentric) .  Second one is Copernic's astronomy which is based on the sun is on the center (heliocentric) .  
+20230808070	:::	 1-Law of inertia and 2- Gravitional Force  These two things were studied but people could not prove.   
+20230808010	:::	 Greeks worked on a geocentric model where the center of the universe is Earth and everything revolves around it.  But geocentric model was contradicting with mathematics.  Then Heliocentric model is made where planets are revolving around the Sun.  Heliocentric model got expanded later because it way more accurate.  
+20210808018	:::	 heliocentric movements they noticed orbits they found out planets spins around themselves and the sun.  if planets get closer to sun they move faster they  move through same areas with same time 
+20230808602	:::	 For Greek's it is geometrical approach.  For Newton it is mechanical approach.  
+20210808022	:::	 lunar eclipse reflecting telescope newton laws newton montion one is earth around the sun other is around its axis 
+20200808026	:::	 Deductive and inductive.  Deductive is an descartes approaches and inductive is an Bacon's approaches.  Deductive is started by accept the thought conclusion by find the example of it,  inductive is started by questions and hypothesis the way on conclusion is find same solutions from the theories.    
+20220808076	:::	 first one is heliocentric and the secondone is geocentric.  geocentric model is tell us earth is center of the universe .  and the heliocentric model tell us the sun is center of universe.  
+20220808048	:::	 reflacting telescope and refracting telescope reflecting telescope uses mirros and refracting telescope uses lenses; objective lens and eye / eyepiece lens.  
+20210808062	:::	 there are 2 approaches to stduy astronomy from greeks to newton .  greeks had knowledge about astronomy .  
+20220808607	:::	 Copernican astronomy,  Aristotelian astronomy.  
+20210808615	:::	
+20220808024	:::	 Predicting and experiamental-observational.  
+20210808061	:::	 Greeks used mathematics to explain nature and they did observations.  But there was a transition between Greeks and Newton.  increased knowledge of mathematics and the development of experimental science played big role.  Technological developments and the inventions of insturemnts such as telescope and microscope and other things let scientist make better observation.  
+20210808044	:::	 Aristotles' model and Copernicus' model.  
+20210808033	:::	 Greek support and used to idea that what also thought and Newton aproach to science greeks obtained.  Greeks proposed the geocentric model which means the earth is the center of universe.  On the other hand newton proposed heliocentric model which means the sun is the center of the universe and the other planetes are spining around the sun 
+20220808703	:::	<p id="isPasted">The two main approaches to studying astronomy from the Greeks to Newton can be broadly categorized as the Geocentric and Heliocentric models.  <ol style=" color: rgb (55,  65,  81) ;"><li>  in the Geocentric model,  Earth is considered to be the center of the universe,  and all celestial bodies,  including the Sun,  the Moon,  and the stars,  are believed to orbit around the Earth.  </li><li>  in the Heliocentric model,  the Sun is at the center of the solar system,  and the Earth,  along with other planets,  orbits around the Sun.  </li></ol>
+20220808073	:::	 For Greeks there is a geometrical explanation of universe.  every heaven bodies were perfect.  but with Newton there is mechanical approach which tell us everything under of acts of planets with formulas  ( f= GMm/r^2)  and relations with observations 
+20220808035	:::	 greeks said geocentric model is exist and Earth is in the centre.  And their things are prediction.  Newton say there is no centre and elliptic orbit is exist and his things are certain he prove it thanks to science.  
+20220808025	:::	 First one is Aristotle Model.  Second one is Copernican Model.   Aristotle model was contitent of perfect circles.  Heavenly bodies was perfect and Earth was center of the universe.  Copernican Model was more accurate but not a hundred percent correct.  According to Copernican Model The Earth is not the center of the universe but circles again perfect.  This was mistake for Copernican Model.  
+20210808610	:::	 first one thre are discovered copernicus solar system and observation about it.  
+20210808016	:::	 greak support and used to ideas that what aristo thought and  he approach to science . Greaks contained experienced   
+20230808618	:::	 Before revulation and after revulation.  before revulation greeks use aristotales opinion and they said earth is centre of world .  After revulation galileo copernicus and byhco etc.  said sun is the centre of world and earth turn around itself.  And also they said planet moves with eleptic  
+20230808004	:::	 Greeks thinks heliocentric and geocentric model geocentric model is earth is the center of the universe and heliocentric model is sun is the center of the universe.   Newton discovered universil gravity force which is F = G * m1 * m2/r^2 and he observes every objects has force on every objects . This is the one of the most significant work from Newton about astronomy.     
+20230808617	:::	 Observation Geolinctric system and helicontric :)  
+20210808017	:::	 First one is Geocenteric Model according to it Planet Earth is the center of the Universe.   Seconde one is Heliocenteric Model according to it Planet Sun is the center of the Universe 
+20220808041	:::	 Greeks believed that geocentric model. Earth is center of universe. Newton say the center of universe is sun.  
+20220808033	:::	
+20220808052	:::	 inductive: Theory first ,  observation later.   Deductive: Observation first ,  theory later.   
+20200808009	:::	 one of them is doing by personel and the other one is doing it systematicly.  
+20220808616	:::	 Geocentric approach and Heliocentric approach.  Geocentric model suggests that the Earth is not moving and is center of the universe.  Heliocentric model says otherwise; Earth moves and revolves around sun and as the other planets does.  
+20210808021	:::	 First apporoache was Earth is center of the universe   Second apporoache was they create first solor system   
+20200808505	:::	 1. Earth is the center of the universe and everything rotate around it -Aristotel's Geocentric  model  2. Sun is the center and planets rotate around it .  (Sun centered universe) - Copernicus's Heliocentric model  
+20210808038	:::	 Descartes invented analytical geometry.  With the invention of analytic,  we measured some of the bodys.   With the invention of the telescope,  our knowledge of study astronomy increased much more.  
+20220808047	:::	 deductive approach and inductive approach  deductive approach is start with generally statement to define a thing  inductive approach starts with a question and goes to generally  
+20230808623	:::	 One of them is the geocentric system.  in this system earth is the center of the universe.  The other one is the heliocentric system.  in this system,  the Sun is the center.  
+20220808039	:::	 Mathematic observing calculating 
+20220808056	:::	 inductive deductive galileo mars orbit and inducted he deduced.  from general to mininmal parts and minimal to general parts specific to general . conclusions.  observational and mathematical 
+20220808032	:::	 Copernican model said the sun around the earth and earth around the its axis. Newton said they  
+20210808011	:::	 1.  Heavenly bodies are perfect and they are orbiting around the world as a circular motion ,  but then Galileo invented a telescope and see the mountains and craters in the moon and disproved that heavenly bodies are not perfect.   2.  The Earth is the center of the universe and every planet circle around it (geocentric)  ,  but then some thought that the Sun was the center of the universe (heliocentric) .  
+20200808028	:::	 One of them is Geocentric Model and other one is Heliocentric Model 
+20220808043	:::	 Greeks used to geocentric model to better understanding universe.  And greeks supported and continued with Aristotelian aprroaching.  Newton took place in greeks books,  art,  scientific.  
+20230808062	:::	 Deductive reasoning: Starts from general statement and ends with an evidence.   inductive reasoning: Starts with evidence and ends with theory or general statement.  
+20220808053	:::	 First one is Geocentric model which is the Earth-centered of universe.  Every planets orbit around the Earth perfectly on  circular way.   Second one is Heliocentric model which is Sun-centered of universe.  Every planets orbit around the Sun perfectly on circular way.  
+20200808504	:::	 Geometrical method,  Heliocentric method.  Geocentric 
+20220808045	:::	<p id="isPasted">the sphere of the world and experiencing the sphere of the earth.  
+20210808614	:::	 any movement in the sky is cussed by the earths motion    earth the center of gravity and Luner  the apart movement of the sun is happened because how our spheres and earth move around the sun so the earth had more then one motion 
+20200808008	:::	 Geocentric model,  which is started with Aristotle and guarded by church because of confirming the bible.  Heliocentric model,  which is started with Aristharcus and also not considered until Copernicus' and Galileo's works.  
+20220808028	:::	 euclid therom  aristotelian's model of geocentric and heavenly bodies are perfect.  
+20210808048	:::	 Heliocentric Model: this suggests the Sun is in the middle,  and planets,  including Earth,  go around it.    Geocentric model:this idea says Earth is at the center,  and everything,  like the Sun and planets,  moves around it.  
+20230808061	:::	 greeks knows earth is revolve around the sun and they accepted the holicentrium model.  Newton also accepted it.  
+20220808066	:::	
+20220808046	:::	 first one is ptolemy's astronomy which is based on earth is on the center.  second one is copernic's astronomy which is based on earth is on the center of universe.  
+20230808613	:::	 The first approahach is observation.  The second observation is mathematical calculations.  
+20210808066	:::	 geocentric model approach  heliocentric model approach    
+20210808056	:::	 They are Copernicu's system  (helio-centric)  and Aristotelien's system  (geo-centric) .  
+20220808034	:::	 One of them is the GeoCentric model which is the Earth at the center of the universe.  The other is the HelioCentric model which is the Sun at the center.  
+20220808067	:::	 First one is geocentric model which is earth is center of the galaxy and the other planets are turn around with perfect circle way.  Second model is helliocentric models in this model we have many scientist like tycho brache,  copernicus,  kepler they improve this model.  Brache thinks the earth is constant because he look the constant stars than measure and planets and stars turn around the sun alse he is very accurately.  After kepler found that the planets aren't perfect they turn with orbital ways that eliptic.  
+20220808074	:::	 One of them Geocentric model.  Aristotheles proposed this model.  He believed that planets revolve around Earth and they have circular orbit.  Additionaly he tought that heavenly bodies are perfect.   The other one is Heliocentric model.  Copernicus Galileou and Kepler proposed and developed this model.  According to this model planets revolving around the sun.  They dont have circular path and they have elliptical orbit.  deductive and inductive 
+20210808612	:::	 There was a suggestion than universe had a center and it was earth.  the universe didn't have a center but the planets that are known orbiting the sun.  
+20200808045	:::	 Heliocentric And Geocentric 
+20220808037	:::	 Heliocentric model and geocentric model.  
+20210808616	:::	 geocentric model   heliocentric model    
+20210808076	:::	 Greeks have lots of knowladge about the astronomy.  They calculated when the sun does same things.   
+20220808604	:::	 First of Gallileo use to telescope and observered the moon. The other one is Kepler's laws.  
+20220808022	:::	 Greeks worked and made obsevations on a geocentric model.  They thought the center of the universe is the Earth and the other planets revolve around it.  Then Newton in helocentric model said that the center of the universe is Sun and the other planets revolve around it.  Helocentric model got expanded later because it way more accurate according to measurements and mathematical proofs.  
+20220808010	:::	 astronomia philosophia,  copernicus book.  Geocentric and heliosentric model maybe.  Geocentric model is Earth is the center of the universe.  Heliocentric model is the sun is the center of the universe.  
+20220808705	:::	 heliocentric model ,  geocentric model 
+20210808042	:::	 The earth is in the center of universe.  Actually,  the sun is in the center of universe.   deductive approach is start with generally statements and theory.   inductive approach starts with a question.  
+20230808020	:::	 Copernican system and Aristotalien system 
+20220808044	:::	 Geocentric model and heliocentric model.  Geocentric model was introduced by Aristotle and put the Earth in the center of the universe with other planets orbiting it.  Heliocentric model  (Copernician model)  was made from the contributions of Galileo,  Copernicus,  Descartes and many others and put the sun in the center while other planets rotating around it.  According to heliocentric model,  the earth was just the center of lunar orbit and gravitation.   
+20230808608	:::	 There are to models: geocentric and heliocentric.   And to study anstronomy two approaches would be: observe celestial bodies such as other planets,  and observe earth  
+20220808007	:::	 They are Geocentric system  (Earth-centered system)  and Heliocentric system  (Sun-centered system) .   
+20230808066	:::	 aristotle's approach and newton's approach. newton said that the earth is only the center of gravity.  aristotle thought that the earth was the center of the universe and everything revolves around the earth.   kepler studied on the moon and realized it circles around in elliptical shapes.  he dedicted distance and the period of the planets were all the same T<sup>2</sup> / R<sup>3  </sup>.  he said that the planets sweeps out equal ares on equal periods of time.  
+20230808055	:::	 one approaches was geocenteric model which says earth is center of the universe.  Other one was heliocenteric model which says sun is center of the universe.  
+20210808006	:::	<p id="isPasted">Geometrical approach  ( Geocentric Model ) : The main goal of the geometric approach was to capture and forecast celestial body motions using geometric models.  Using this method,  an earth centered structure in space is created by placing the Earth in the center and all other celestial bodies in orbit around it,  adhering to a system of interconnected spheres and circles.   Mechanical approach  ( Heliocentric Model ) : The mechanical method concentrated on the characteristics of scale models of celestial bodies,  which frequently featured gears,  levers,  and other mechanical components as conductors of their motions.  Mechanical approach is sun centered.  
+20230808075	:::	 First one is geometrical approach that Greeks did.  Greeks used to modal things they work on to understand easier.  Based on modeling.  Second one is mechanical approach.  Mechanical structure of the Universe is based on principle mechanics of machines.  Observation.  
+20200808015	:::	<p id="isPasted">System Approach and individual Approach .        
+20200808003	:::	 At a Cambridge fair,  he purchased a book on astronomy which he could not understand because he did not know trigonometry.  So he bought a book on trigonometry,  which he could not understandbecause he had never studied Euclid&rsquo;s Elements.  Sohe next purchased Euclid and began what was largely a self-education in mathematics.  
+20220808058	:::	 One one them is the geocentric approach which thinks the Earth is the center of the universe,  the other one is the heliocentric approach which thinks the Sun is the center of the universe.  
+20220808018	:::	 There were Geocentric model and heliocentric model.  The geocentric model says earth is the center of the universe and planets are orbiting around the earth in a circular path.   Heliocentric model says sun is the center of the universe and planets are orbiting around the sun.   
+20220808001	:::	 Greeks observed space with just their eyes.  They didn't use any tools and they didn't want to find any evidence.  So they made a lot of mistakes because of it.  But Newton observed nature but also tried to prove it by mathematical evidence.  And he used previous scientist's works like kepler,  galileo,  copernicus.  So his calculations are almost correct and his predictions are absolutely better.   
+20220808077	:::	 Theoritical and observational (using telescopes or cameras to capture images)  
+20200808805	:::	
+20190808021	:::	 Geocenteric approach studies astronomy by taking Earth as the center of the universe where the planets and the Sun orbits around Earth.  Heliocenteric approach instead takes the Sun as the center of the universe and the other planets orbit around the Sun.  
+20220808606	:::	 Newton approached to study astronomy with scientific way,  consider mathematical calculations and making observations.   
+20200808063	:::	  Lunar Laser Ranging, and optic 
+20220808005	:::	 Before newton,  there were geometric approaches to study astronomy.  Newton was focusing on developing mathematic of the universe that based on observation,  mathematics and mechanic.   Another approach may be understanding the nature of the universe,  natural laws,  these are of course based on observations,  maybe reasoning.   
+20220808051	:::	 the core curiculum was still based on Latin and Greek texts of Aristotle and the various medievel Renaissance commentors.  
+20220808608	:::	 observational astronomy and theoretical astronomy 
+20220808060	:::	
+20220808026	:::	 the geocentric the earth was centered in his model,   heliocentric model the sun was centered in this model        
+20230808049	:::	 The first one was that the universe had a center and it was earth.   And the other one was that the universe didn't have a center but planets that are known were orbiting the sun.  
+20220808002	:::	 Gravity and Newton rules.  
+20210808604	:::	 these approaches are sun centered universe and earth centered universe.  early times people thinked earth is center of the universe and all celestical objects turn around earth,  Since galileo people belive that and catolic church defend that idea.  however copernicus and galileo prove the earth is sphere and is not center of the universe.  copernicus thinked sun is the center of universe but when the newtown times people discover the sun is not the center.  
+20200808062	:::	 One of them is the geocentric approach that says the Earth is the center of the universe. The other one is the heliocentric model that says the center of the uinverse is the Sun.   
+20220808062	:::	 deductive  inductive tumevarimli ve tumdengelimli 
+20230808615	:::	 heliocentric model which puts sun in the center of the universe  geocentric model which puts earth in the center of the universe 
+20220808055	:::	 Newton wanted to study astronomy,  but he did not have any idea about trigonometry.  He decided to learn trigonometry but this time he realized he had to know Euclid to understand trigonometry.  He read and learned these two topics.  
+20210808065	:::	
+20200808020	:::	 phisophia and copernicus book 
+20220808038	:::	 Greeks worked on Geocentric Model which says Earth is the center of the Universe.  Aristotle said Earth is center and Earth cannot move.  in Geocentric Model,  orbits are the perfect circles.  Newton worked on Heliocentric Model which says Sun is the center and other planets moves around it.  in Heliocentric Model orbits are elleptical.  in this Model,  Sun created vortex which means gravitaniol force and attract other planets so Sun held Universe together.  
+20200808072	:::	 helocentric and geocentric or heliocentrical and geocentrical   that are 2 approaches to study astronomy from greeks to newton.     
+20220808072	:::	 There is Aristotelian theory which the Earth was in the center of the universe.  And Copernican theory which the Sun center of the universe and planets rotating around the Sun.  
+20200808038	:::	 Heliocentric and Geocentric Model. According to Geocentric Model Earth is center of universe and according to Heliocentric Model Sun is center of universe. With invention of telescope there are so many achievement from Greeks to Newton.  Greeks was saying celestial bodies are perfect but in reality with invention of telescope we understood that,  celestial bodies are not perfect.  Greeks was not approaches to astronomy in scientific ways.  But Newton and other scientist do so many experiment and observation about astronomy.  
+20200808080	:::	 1-Ptolemy's Geometry (Geocentcric Model) : This model viewed in ancient Greek astronomy.  This model determines the Earth was in the center of the universe.  2-Copernican Revolution (Heliocentric Model) : According to this model and Nicolaus Copernicus,  the Sun was the center of the universe  
+20190808035	:::	 heliocentric and geocentric 
+20220808057	:::	 The world turns around  sun and also it turns around itself .  Copernic thought these things .  Galileo found telescope and they use for astronomy .   
+20190808034	:::	 he found out the law of gravity and copernic was saying lights on the straight lines he said its not its a like wave 
+20210808005	:::	 They are geocentric and heliocentric model .  The geocentric model supposed that the earth at the center and the planets moves in earths around. The heliocentric model supposed that the sun at the center and the planets moves in suns around .   

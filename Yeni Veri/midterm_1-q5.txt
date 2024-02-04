@@ -1,0 +1,134 @@
+20180808086	:::	 Aristo show that. this forcing the withdraw of the hypothesis. if given hypothesis leads to contradiction, assume that  what we want to prof this is not true.     may be the next two steps is conflict and understanding.  
+20190808014	:::	 Aristotle, shows that if a given hypothesis leads to a contradiction, therefore forces to the withdrawal of the hypothesis. The next steps may involve scientific, empiric experiments showing hypothesis' withdrawal.  
+20190808021	:::	 The first step is figuring out why there is a contradiction. Is your own hypothesis wrong or is the known fact faulty itself? Thus to prove if your hypothesis is correct or not, you should find evidence supporting your hypothesis.   After you find evidence, the next step is seeing if it proves your hypothesis or disproves it. If you can prove your thoughts, the contradiction is because the known fact itself is wrong and you've found the correct answer. Alternatively if the evidence supports the already known fact, then your hypothesis is wrong. In that case a new hypothesis can be made.  
+20190808035	:::	 rearrange the hypothesis solve the contradiction, disappear the thing which leads the hypothesis to the contradiction  
+20200808003	:::	
+20200808008	:::	 In first step predictions that lead to a contradiction must be changed. Then these new hypothesis must be observed or tried again.  
+20200808015	:::	
+20200808020	:::	 If hypothesis leads to a contradiction it means hypothesis is false. Then you need to find another hypothesis.   True hypothesis turns into theory. Theory turns into law.  
+20200808026	:::	 make an experiment,  take a result from between hypothesis and contradiction.   
+20200808033	:::	 That would be probably reevaluating the hypothesis so that we can understand the problem which causes the contradiction. That's why can we can use some ways to find the problem causes the contradiction like proof by contradiction, improving the hypothesis, considering alternative solutions to the hypothesis  
+20200808038	:::	 Aristoteles's philosophy leads to a contradiction. There should be thesis and antithesis. For example we use contradiction for prove 2^1/2 is irrational.   2^1/2 = x/y, 2^1/2 * y = x,  2y^2 = x^2 x = 2k and x even,   2y^2 = 4k^2 y^2 = 2k^2, y = even and there is a contradiction.  
+20200808045	:::	 Contradiction example       today is sunny    summer is sunny   today is in the summer               
+20200808062	:::	 We make sure the hypothesis is invalid in many situations.   We should create a new hypothesis over it on that field.  
+20200808063	:::	 thus, forcing withdrawal  
+20200808072	:::	 Aristotle    two steps ... walk room across reach wall . can Achilles catch tortoise    given hypothesis leads to a contradiction .   
+20200808504	:::	 Hypothesis leads to a contradiction given a try to solution against. Prove the statement. Using assumption derive new consequences . Opposite your prime. Conclude that the assumption.  
+20200808505	:::	 One of them could be use the assumption to derive new consequences until one is the opposite of your premise.. The other one .Conclude that the assumption must be false and that its opposite (your original conclusion) must be true.  
+20200808805	:::	 1- Deduction   2-Denying proposition hypothesis  
+20210808005	:::	
+20210808006	:::	 It might prove something is true or not. contradiction is used in science to prove a statement.   Athenian ancient city democracy drama tragedy Greeks Roman Science invented  
+20210808012	:::	 we improve an experiment to test this hypothesis if it is true it becomes a theory.   if it is not we change the hypothesis.      
+20210808014	:::	 reviewing the hypothesis again and making it more accurate with more observation. Or making brand new hypothesis with new approach.   
+20210808016	:::	 Firstly the hypo isn't completely left back since the sciences is competitive. We can change the hypothesis a bit if it doesn't work then a new we use new hypothesis.  
+20210808017	:::	 The next step is the Proof this hypothesis with trying and calculating. The scientist questions and they want proof so when a given hypothesis should proof the this hypothesis. They actually use prediction for understanding the hypothesis and  abstract the events in their mind for understanding.  
+20210808018	:::	 next two steps would be going back to the first step and check if there is any mistakes  
+20210808021	:::	 We do something for proof the hypothesis    We see and take the note with cause-effect  
+20210808022	:::	 when we have a prediction and understand some it is will be hypothesis. We make a proofs it if we proof it it is will be theorem. then maybe it will be canon.  
+20210808025	:::	 If a given hypothesis leads to a contradiction. We should think that systematically and We should understand and predict also We should make observation.   
+20210808033	:::	 Firstly the hypothesis isn't completely left back. Since the science is competitive   we can change the hypothesis a bit if it doesn't work then a we use new hypothesis.  
+20210808035	:::	 after hypothesis leads theory then conclusion  
+20210808038	:::	 When we have a accepted theory or a law, that must be true obviously. But if we can find a single state that leads to make the theory wrong, this is the contradiction. For instance, Greeks thought that square root 2 is rational. But  later they proved it was not rational so it must have been irrational. contradiction.  
+20210808042	:::	 Predicting an understanding is important.   next two steps may be theory and observation.  
+20210808044	:::	 The next step after hypothesis is making observation, and the next step is making prediction.  
+20210808048	:::	 when scientist found something is wrong they gave presuppose  
+20210808056	:::	 In Greeks time hypothesis led to a contradiction.    Observation, prediction   
+20210808061	:::	 According to Aristoteles Formal Logic:    When a given hypothesis leads to a contradiction, thus , forcing the withdraw of the hypothesis.   Denying a presupposition of the contending thesis and antithesis.      
+20210808062	:::	 when conducting scientific research, after the abstract hypothesis part the researcher can make some experiments or observations. According to results, the researcher can change the hypothesis or can continue to prove it.  
+20210808065	:::	 check if there any assumptions that might be inaccurate. Then modify the hypothesis.  
+20210808066	:::	  Show that a given hypothesis leads to a contradiction; thus, forcing the withdrawal of the hypothesis   &ndash; Denying a presupposition of the contending thesis and antithesis          
+20210808076	:::	
+20210808604	:::	 if there is contradiction in our hypothesis, we will update our hypothesis and we will observe again are there any contradiction  
+20210808605	:::	<p id="isPasted">If a hypothesis turns out to be wrong, I first check the hypothesis, my way of thinking and my assumptions.    - I can consult an expert in this field.   - I try to explain the hypothesis with an experiment, and I find the error in my hypothesis by creating a contrary hypothesis and strengthen it even more.  
+20210808608	:::	 One of the first steps for hypothesis leads to a contradiction is deciding/finding the hypothesis logical arguments. After that step next could be finding the logical and effective solution for the argument or problem. After the finding solution step, next step is try the solution step with an experiment, if experiment is successful then we can go for the next step but if not, we need to return the finding solution step and try to find another solution for argument/problem.  
+20210808610	:::	 abstraction  
+20210808612	:::	 The first next step may be prediction the another step must be observation.  
+20210808614	:::	 like sente they were now allowed to get work in forgiven trade because conflict of interests  conflicting of interest make it  difficult to make fair decision and it is common in fields  finance law and politic and it can lead to one sided decision  
+20210808615	:::	 hypothesis must be tested and it must have many proofs so we can say this hypothesis true and it should be open for search , open for asking questions about it .  <div style="color: rgb(32, 33, 36);"><div data-hveid="CCEQAA" data-ved="2ahUKEwis1NfMiKiCAxVgQ_EDHaTHDYQQFSgAegQIIRAA" lang="en"><div data-snc="ih6Jnb_dPgizb"> </div></div></div>
+20210808616	:::	 It's important to approach contradictions in a rational and systematic way, as they can be opportunities for learning and refining one's understanding. Contradictions often play a key role in the scientific method and the process of refining hypotheses and theories to better align with observed reality.  
+20220808001	:::	 If there is a contradiction, your way is could be wrong and you need to look the problem from different ways. Maybe you can see something different from the others and you can find something has never explained before. And with this method you can also lead the future.  
+20220808002	:::	 Unseeing the hypothesis and changing the hypothesis with new information's.  
+20220808005	:::	 First of next steps may be reject the given hypothesis. Then you can improve the hypothesis and you can consider a situation that create contradiction on the hypothesis.   
+20220808006	:::	 When you have a contradiction about your hypothesis, you need to turn back and check it. You need to proof it. Maybe you should ask questions. For example you can say that Have you seen Hans ? We understand that Hans exist and we know it.  
+20220808007	:::	 Firstly, the hypothesis isn't completely left back. Since the science is cumulative, with other information's we get, we can change the hypothesis a bit. If it still doesn't work, then a new hypothesis is produced.  
+20220808010	:::	 first of all, is the hypothesis effect to our live, to science or anything. If the hypothesis is make sense and worth to solve a problem. first step We have to research any information to solve this problem. And second step, we have to find which way is more make sense for science, for nature with our information that we found.  
+20220808013	:::	 when he say two things different from his hypothesis like "Pets not allowed" and "Only dogs can walk in" its a contradiction. The two steps may be reviewing theirs's hypothesis and being deductive, cumulative.  
+20220808014	:::	 First step is understand the situation.   Second step is make some prediction to how we can can solve that problem in the easiest way.  
+20220808016	:::	
+20220808018	:::	 Let's say there is an idea. It can't be both true and false. But you can't prove the either way of it. If something happens like that it leads to a contradiction.   
+20220808019	:::	     
+20220808022	:::	 It can be happen in hard times. We can make some deductions for next steps. Also we can do some observes. We can predict something. Prediction is important. Understand   
+20220808023	:::	 Hypothesis leads to a contradiction when the hypothesis is inconsistent with another proven hypothesis or with itself.(which leads to proof by contradiction.). The next 2 steps may be to create a new hypothesis based on that and then checking if that new hypothesis leads to a contradiction or not.  
+20220808024	:::	 Hypothesis should be understandable and predictable if anything can it wrong it cant leads to a contradiction may be the next two steps are trying to find any mistake and last steps announce to the theory.  
+20220808025	:::	 The first next step may be prediction. After that the another step must be observation.  
+20220808026	:::	 we can use the deduction for this situation    like this example    summer is hot    today is hot    today is summer   
+20220808028	:::	  we say different views about this hypothesis   after, we prove our view   finally, we disprove hypothesis explaining my view  
+20220808029	:::	 The next steps are we should assume that what we want to prove is not true, and then show that the consequences of this are not possible.   
+20220808032	:::	 according to aristotle.it had presupposes. for example:   Have you talked to Hans?   Hans exists.  
+20220808033	:::	
+20220808034	:::	
+20220808035	:::	
+20220808037	:::	 making possible prediction about subject,   analyzing the data's,          
+20220808038	:::	 If there is a contradiction in a hypothesis, first you can try to improve your hypothesis with more information. If it won't, the hypothesis would change.  
+20220808039	:::	 If a hypothesis leads to a contradiction it can be revised, updated to conditions   
+20220808041	:::	 In this situation, Greeks didn't refuse the hypothesis. They improve hypothesis with new ideas and then they combined them. They back hypothesis on.   They wanted strictly definite proofs.   first step can be reject the hypotheticals we may want to improve that.      
+20220808043	:::	 Hypotheses and theories should be reviewed and questioned scientifically. Cumulative progress can be made to solve this problem. Maybe hypothesis can compare other theories and again can check positive and negative sides in this way.  
+20220808044	:::	 denying one of the presuppositions of the hypothesis , withdrawal of the hypothesis according to Aristotle.  
+20220808045	:::	 It is important for science. We should give our careful to all thinks. We have to research deeply these thinks and thinks like the hypothesizer eyes. Then we should try the antithesis if even hypothesis is true, from objective eye, it can be a rule or something.  
+20220808046	:::	 Pythagoreans calculated hypothesis.    square number1 plus square number2.  
+20220808047	:::	 if you see a contradiction, first step, you can get more prove before you say.  you don't have to find another hypothesis but if you want kill the hypothesis u have to find powerful proves and scientific reals,   but it's not enough. Second step, you have to make your proves and scientific reals to understandable for normal people. Normal people hard to change their norms and rules because of their faith or religion.   You have to make abstraction to make things more understandable.       
+20220808048	:::	 To turn back the question again and calculate and measure, following the old steps with new ways, making antithesis,   
+20220808050	:::	 understand and predict  
+20220808051	:::	 theory , the law  of giving lesson  
+20220808052	:::	 Observe the contradicting outcome. Make educated hypothesis with that outcome to solve initial problem. Repeat.  
+20220808053	:::	 İf there is contradiction we need to pull one of them to prevent contradiction. The other step is make a new thesis to make it right.  
+20220808055	:::	 Firstly, contradiction will control. If contradiction is right, hypothesis should update and become more reliable. So that contradiction helped science a lot.  
+20220808056	:::	 hypothesis leads to a contradiction   To proving yhe something with contradiction, we assume that what we want to show the consequences and prove is false and not true,. That is, the consequences contradict either what we have just assumed, or something we know be true or indeed this a contradiction contunue the proof direct methods  
+20220808057	:::	 When hypothesis has two different things in . The next two step may be find new information and order clearly .   
+20220808058	:::	 A given hypothesis leads to a contradiction when it's against the formed ones. The next two steps are updating the one which was already formed. This can work for a while (maybe 15 or 1000 years such as first Geocentric and Ptolemy geocentric models), when it starts not working then it leads to create a new one. In this example heliocentric model for example.  
+20220808059	:::	 After we made a hypothesis Firstly, we must try our hypothesis. If it is true, we can share our hypothesis with other scientists. If the scientists found the same answer. Our hypothesis can be a Canon.  
+20220808060	:::	 1- We have to turn hypothesis to abstraction math's to understand easily.   2-We have to make studies  about hypothesis. We have to try hypothesis many times. And we have to decide is it true or false?  
+20220808062	:::	 use observation to understand what is caused to this contradiction.   solve the problem.   create a new hypothesis.  
+20220808063	:::	 Firstly, we look at the contradiction is true or false. İf it is true, we try to find another way to    
+20220808066	:::	 finding a and b , calculate a^2 + b^2   
+20220808067	:::	 Deduction about something different then this hypothesis. then try to prove if there is other ways or hypothesis about it. Greeks use contradiction to learn hypothesis true or false.  
+20220808069	:::	 It is important to approach construction to be rational. Next step may be make a test.So we look that is it true or false. Then we sure or do not sure this hypothesis is true.       Otherwise, next step may be ask a question "why?". Then next step may be make (create) anti thesis to disprove.  
+20220808071	:::	 Used to understand and predict  
+20220808072	:::	 If it is contradict with the idea you might change your steps or you might change your idea.   
+20220808073	:::	 One of Zeno's paradox will be my hypothesis. all movements are illusion for instance you never arrive to the door as when you go half of the way , there will be another half of way and  when you go half of the way,  there will be another half of way again and again. the next step is that according to that paradox your time of passing half way will be decrease until it is zero. it is like limit. but that is impossible because time is containing in the same race. next step is using calculus as it use time table constant, so time containing in the same race and with this information your time of passing half of way can not be possible in that world. As a result you will access to the door at the and.  
+20220808074	:::	
+20220808076	:::	 I THİNK  ANOTHER ASPECT AND TO TURN HEAD AGAİN İF MY HYPOTHESİS İF İT İS WRONG  
+20220808077	:::	 For example when I say Monday is the first day of the week, we do not know it is true or not. To avoid contradiction we can use deduction. And after that if it is not true we can declare a new hypothesis until the declared one is true.  
+20220808504	:::	 Hypothesis and theories should be reviewed . Cumulative progress can solve the problem. Maybe hypothesis can compare other theories.  
+20220808601	:::	
+20220808604	:::	 Firstly we come back the step of predict hypothesis and predict about again that  use different way and try it.  
+20220808606	:::	 It needs some observation, data to lead a hypothesis to a contradiction.    For next steps it needs more date and consistency, more observations and proofs to make hypothesis solid. Then it may come theory.  
+20220808607	:::	  negate the hypothesis and show the negation leads to a contradiction.  
+20220808608	:::	 hypothesis abstraction predict  
+20220808610	:::	 Observation and Testing. Also proving the opposite hypothesis.  
+20220808616	:::	 We should change one of our assumptions and try to make the process again  
+20220808617	:::	 We can try to proof the hypothesis or we can try to proof this hypothesis is wrong.  We can use Mathematical calculations for this hypothesis. understand predict deduction   
+20220808703	:::	 1: proof with systematical approach   2: predict and understand  
+20220808705	:::	 secondly you understand, predict and observation the problem    lastly you have to proof the problem (when you try to proof you can visual technique or practice)   
+20220808706	:::	 Rejected or modified.       
+20230808004	:::	 A given hypothesis leads a contradiction when it is against the natural law and scientific information. First step is looking where is the contradiction of theory and find them. Second step is find the solution about this contradiction.  
+20230808010	:::	 If a hypothesis leads to a contradiction it can be revised, updated to conditions or it can be cancelled completely.  
+20230808020	:::	 preposition and  
+20230808049	:::	 they may improve it and update it like Ptolemy did with the geocentric model and epicycles    or they can invent another hypothesis that doesn't have that flow like heliocentric model  
+20230808055	:::	 if a given hypothesis leads to a contradiction then you must first look for is the contradiction for unique  circumstances or is it for common circumstance if its for the common your hypothesis can wrong in fundamentally but if its for unique circumstances then there can be exception  
+20230808061	:::	 first of all we must know where is the contradiction and is there any solution if there is not solution we declare this hypothesis is wrong. Also we must check is hypothesis predictable and understandable .   
+20230808062	:::	 Like for Aristotle science is about contradiction. What that means is contradiction leads to another contradiction and it leads to another. This goes like that. It is like disproving the current knowledge. At the end until the last one disproved it is the official answer of that question/problem/hypothesis.  
+20230808066	:::	 it leads to a contradiction when the given axioms does not much with each other. the steps after that is trial.   if you say that pets are not allowed and pets are allowed with leash, this leads to a contradiction.   Zeno used proof by contradiction in his paradoxes. But with the invention of Calculus by Newton this became wrong   Walking across a room but never reaching the wall . this was proved wrong when you walk all the way instead of walking half of the way again and again.  
+20230808070	:::	 Control it again and again. When it becomes correct, it becomes theorem and then law.  
+20230808075	:::	 İf 2 thing in a hypothesis that doesn't match each other this will cause a contradiction. But in science this is not something negative. This will make people think on hypothesis more and people will have more knowledge in that topic and it will improve science cumulatively. The next steps will be thinking of new hypothesis that matches inside.   
+20230808077	:::	 if hypothesis leads to a contradiction first, we need to compare them which one is more trustable and useful.   secondly, we need to try predicting which one we can use it.  
+20230808602	:::	
+20230808608	:::	 It leads to contradiction when something is taken for true without proving it first.   Ex:    - Summer is hot   - Today is summer   - Today is hot       The next two steps would be going back and reviewing assumption   Ex:   - Even though it is summer, is it hot?      
+20230808609	:::	 Aristotle science is about systematic and contradiction. (Leads to another contradiction and it leads another.) Proof of contradiction. Zeno's paradox includes contradiction.  
+20230808611	:::	 Find new hypothesis.  
+20230808614	:::	 Dropping that hypothesis and making a new one.   Modifying the hypothesis and making it rid of the contradiction.  
+20230808615	:::	 observation is made to set an hypothesis. Then search for any exceptions. After exception is proven the hypothesis is withdrawal.  
+20230808617	:::	 If an experiment (observation) does not support hypothesis or does not follow on premises (does not follow logical steps). The next steps may be create a new hypothesis and then observation.  
+20230808618	:::	 First of all , we don't accepts it is certainly true. we have to ask question about it. Also we have to test it . Like antic Greeks asking about everything.   
+20230808621	:::	 When the scientist realize something different , they wonder the reason and some do predict about their wonder ideas, ask something for example ' why this happen?' . After then they try to find real reason . They do research and observation about this subject . If their predicts is correct , then they find some rule, and implement it general way. Finally this rule become theorem.  
+20230808623	:::	 First we create a new hypothesis or rearrange the old one.   Than we test our new hypothesis. İf there is another contradiction we repeat the steps. Otherwise we continue.  
